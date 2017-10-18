@@ -1,0 +1,19 @@
+{
+  "name": "vs-like-dark-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A dark syntax theme close to Visual Studio 2017",
+  "keywords": [
+    "syntax",
+    "theme",
+    "Visual Studio",
+    "vs",
+    "Dark",
+    "2017"
+  ],
+  "repository": "https://github.com/nicoschuele/vs-like-dark-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
