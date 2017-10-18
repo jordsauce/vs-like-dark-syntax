@@ -1,7 +1,7 @@
 {
   "name": "vs-like-dark-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A dark syntax theme close to Visual Studio 2017",
   "keywords": [
     "syntax",
